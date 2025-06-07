@@ -4,7 +4,7 @@ Es necesario tener ambiente Java instalado
 #### Instalación
 Clona el proyecto
 
-    git clone https://github.com/Valenczia/MediClinic.git
+    git clone https://github.com/Arlen/MediClinic.git
 
 #### Configuración
 
