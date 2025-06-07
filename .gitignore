@@ -1,0 +1,3 @@
+src/db/*
+out/*
+*.DS_Store
